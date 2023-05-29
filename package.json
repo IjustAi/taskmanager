@@ -1,0 +1,22 @@
+{
+  "name": "clean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IjustAi/taskmanager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IjustAi/taskmanager/issues"
+  },
+  "homepage": "https://github.com/IjustAi/taskmanager#readme",
+  "dependencies": {
+    "mongodb": "^5.5.0"
+  }
+}
